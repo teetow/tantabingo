@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tantabingo/static/css/main.2cc2ef72.chunk.css",
+    "main.js": "/tantabingo/static/js/main.64b63285.chunk.js",
+    "main.js.map": "/tantabingo/static/js/main.64b63285.chunk.js.map",
+    "runtime-main.js": "/tantabingo/static/js/runtime-main.75f97085.js",
+    "runtime-main.js.map": "/tantabingo/static/js/runtime-main.75f97085.js.map",
+    "static/js/2.3b793585.chunk.js": "/tantabingo/static/js/2.3b793585.chunk.js",
+    "static/js/2.3b793585.chunk.js.map": "/tantabingo/static/js/2.3b793585.chunk.js.map",
+    "static/js/3.97e84954.chunk.js": "/tantabingo/static/js/3.97e84954.chunk.js",
+    "static/js/3.97e84954.chunk.js.map": "/tantabingo/static/js/3.97e84954.chunk.js.map",
+    "index.html": "/tantabingo/index.html",
+    "static/css/main.2cc2ef72.chunk.css.map": "/tantabingo/static/css/main.2cc2ef72.chunk.css.map",
+    "static/js/2.3b793585.chunk.js.LICENSE.txt": "/tantabingo/static/js/2.3b793585.chunk.js.LICENSE.txt",
+    "static/media/confetti.dc87da29.mp3": "/tantabingo/static/media/confetti.dc87da29.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75f97085.js",
+    "static/js/2.3b793585.chunk.js",
+    "static/css/main.2cc2ef72.chunk.css",
+    "static/js/main.64b63285.chunk.js"
+  ]
+}
